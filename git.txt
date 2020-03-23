@@ -1,0 +1,38 @@
+#######################
+git init
+
+# git initialising on already/empty  repository 
+
+
+#######################
+ #to addup a modified/untracked  file
+
+git add README.md
+
+#########################
+
+
+
+git status
+
+#to check current progress 
+
+#########################
+
+git commit -m "first commit"
+
+# to record thw whole change the history of the project
+
+
+#########################
+
+git log 
+
+#to access history commits
+
+########################
+
+
+git push -u origin master
+
+#sync up to github 
